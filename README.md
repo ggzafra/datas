@@ -1,2 +1,3 @@
 # datas
-### Archivos de R y JSON para usar con MongoDB
+### Archivos de carga para prácticas con Pig, Flume, Hive, etc
+
